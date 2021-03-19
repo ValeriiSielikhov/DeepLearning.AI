@@ -11,6 +11,6 @@ You will master not only the theory, but also see how it is applied in industry.
 
 Structuring Machine Learning Projects
 
-[Convolutional Neural Networks](https://github.com/ValeriiSielikhov/DeepLearning.AI/tree/main/Convolutional%20Neural%20Networks/week%201)
+[Convolutional Neural Networks](https://github.com/ValeriiSielikhov/DeepLearning.AI/tree/main/Convolutional%20Neural%20Networks)
 
 [Sequence Models]()
