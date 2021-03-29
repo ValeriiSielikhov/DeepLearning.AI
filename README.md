@@ -13,4 +13,4 @@ Structuring Machine Learning Projects
 
 [Convolutional Neural Networks](https://github.com/ValeriiSielikhov/DeepLearning.AI/tree/main/Convolutional%20Neural%20Networks)
 
-[Sequence Models]()
+[Sequence Models](https://github.com/ValeriiSielikhov/DeepLearning.AI/tree/main/Sequence%20Models)
